@@ -1,10 +1,10 @@
 # YZnOPn
 
-DFT optimised crystal structures of LaZnOP and LaZnOAs, calculated using the Vienna *Ab initio* Package (VASP).
+DFT optimised crystal structures of YZnOP and YZnOAs, calculated using the Vienna *Ab initio* Package (VASP).
 
 ## Computational Details
 
-The crystal structures for LaZnOP and LaZnOAs reported by Lincke et al.<sup>1,2</sup> were optimised using the PBEsol and HSE06 functionals. The structures were relaxed using a Quasi-Newton algorithm, with ion positions, cell shape and cell volume allowed to change.
+The crystal structures for YZnOP and YZnOAs reported by Lincke et al.<sup>1,2</sup> were optimised using the PBEsol and HSE06 functionals. The structures were relaxed using a Quasi-Newton algorithm, with ion positions, cell shape and cell volume allowed to change.
 
 ## Requirements
 
