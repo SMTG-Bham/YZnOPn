@@ -1,5 +1,7 @@
 # YZnOPn
 
+[![DOI](https://zenodo.org/badge/332887692.svg)](https://zenodo.org/badge/latestdoi/332887692)
+
 DFT optimised crystal structures of YZnOP and YZnOAs, calculated using the Vienna *Ab initio* Package (VASP).
 
 ## Computational Details
